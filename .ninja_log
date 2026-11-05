@@ -1,0 +1,16 @@
+# ninja log v7
+28	187	8155203188694974	FileManager_autogen/timestamp	56389386c37708a9
+28	187	8155203188694974	FileManager_autogen/mocs_compilation.cpp	56389386c37708a9
+28	187	8155203188694974	C:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/timestamp	56389386c37708a9
+28	187	8155203188694974	C:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/mocs_compilation.cpp	56389386c37708a9
+566	2640	8155200797279266	CMakeFiles/FileManager.dir/main.cpp.obj	2bae7d4b3aa04d75
+562	2811	8155200797239262	CMakeFiles/FileManager.dir/FileManager_autogen/mocs_compilation.cpp.obj	2f3405ea760e75d0
+574	2849	8155200797359263	CMakeFiles/FileManager.dir/filemanagercore.cpp.obj	c9ff6604eca35ede
+187	3002	8155203190288501	CMakeFiles/FileManager.dir/mainwindow.cpp.obj	c183b153143d8f37
+3002	3217	8155203218433487	FileManager.exe	4a6836c73e7a67ee
+15	136	8155204520959355	FileManager_autogen/timestamp	56389386c37708a9
+15	136	8155204520959355	FileManager_autogen/mocs_compilation.cpp	56389386c37708a9
+15	136	8155204520959355	C:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/timestamp	56389386c37708a9
+15	136	8155204520959355	C:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/mocs_compilation.cpp	56389386c37708a9
+136	3512	8155204522157929	CMakeFiles/FileManager.dir/mainwindow.cpp.obj	c183b153143d8f37
+3512	3726	8155204555927559	FileManager.exe	4a6836c73e7a67ee

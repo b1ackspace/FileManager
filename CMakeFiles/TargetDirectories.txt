@@ -1,0 +1,5 @@
+C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager.dir
+C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/edit_cache.dir
+C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager_autogen_timestamp_deps.dir
+C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager_autogen.dir

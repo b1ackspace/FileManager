@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/Win/Desktop/Praktika/FileManager/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0/QtGui -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0/QtCore -g -std=gnu++17 -o CMakeFiles\\FileManager.dir\\FileManager_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\Win\\Desktop\\Praktika\\FileManager\\build\\FileManager_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/mocs_compilation.cpp",
+  "output": "C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager.dir/FileManager_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Win/Desktop/Praktika/FileManager/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0/QtGui -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0/QtCore -g -std=gnu++17 -o CMakeFiles\\FileManager.dir\\main.cpp.obj -c C:\\Users\\Win\\Desktop\\Praktika\\FileManager\\main.cpp",
+  "file": "C:/Users/Win/Desktop/Praktika/FileManager/main.cpp",
+  "output": "C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Win/Desktop/Praktika/FileManager/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0/QtGui -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0/QtCore -g -std=gnu++17 -o CMakeFiles\\FileManager.dir\\mainwindow.cpp.obj -c C:\\Users\\Win\\Desktop\\Praktika\\FileManager\\mainwindow.cpp",
+  "file": "C:/Users/Win/Desktop/Praktika/FileManager/mainwindow.cpp",
+  "output": "C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/Win/Desktop/Praktika/FileManager/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/Win/Desktop/Praktika/FileManager/build/FileManager_autogen/include -isystem C:/msys64/mingw64/include/qt6/QtWidgets -isystem C:/msys64/mingw64/include/qt6 -isystem C:/msys64/mingw64/include/qt6/QtCore -isystem C:/msys64/mingw64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/mingw64/include/qt6/QtGui -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtGui/6.12.0/QtGui -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0 -isystem C:/msys64/mingw64/include/qt6/QtCore/6.12.0/QtCore -g -std=gnu++17 -o CMakeFiles\\FileManager.dir\\filemanagercore.cpp.obj -c C:\\Users\\Win\\Desktop\\Praktika\\FileManager\\filemanagercore.cpp",
+  "file": "C:/Users/Win/Desktop/Praktika/FileManager/filemanagercore.cpp",
+  "output": "C:/Users/Win/Desktop/Praktika/FileManager/build/CMakeFiles/FileManager.dir/filemanagercore.cpp.obj"
+}
+]
